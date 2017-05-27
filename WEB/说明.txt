@@ -1,0 +1,4 @@
+以上PHP代码和sql文件为所需代码
+sql无需再进行导入，
+直接可在以下网址演示
+http://7.myzonedoctor.sinaapp.com/go.php
